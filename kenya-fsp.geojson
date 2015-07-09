@@ -1,0 +1,5547 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-07-09T18:33:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/30317943",
+      "properties": {
+        "@id": "node/30317943",
+        "amenity": "bank",
+        "name": "Barclays Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8016168,
+          -1.2634713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277575156",
+      "properties": {
+        "@id": "node/277575156",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.9c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8247469,
+          -1.2624237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291520556",
+      "properties": {
+        "@id": "node/291520556",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.10b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8122904,
+          -1.2652277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300800447",
+      "properties": {
+        "@id": "node/300800447",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.815024,
+          -1.2327493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300800468",
+      "properties": {
+        "@id": "node/300800468",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8151356,
+          -1.2326978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300800780",
+      "properties": {
+        "@id": "node/300800780",
+        "amenity": "bank",
+        "name": "UNFCU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8145348,
+          -1.232758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300800837",
+      "properties": {
+        "@id": "node/300800837",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8149357,
+          -1.2326508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300800898",
+      "properties": {
+        "@id": "node/300800898",
+        "amenity": "atm",
+        "name": "UNFCU",
+        "operator": "United Nations Federal Credit Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8144833,
+          -1.2327236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344969261",
+      "properties": {
+        "@id": "node/344969261",
+        "amenity": "post_office",
+        "name": "Mombasa GPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6720099,
+          -4.0611278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354334358",
+      "properties": {
+        "@id": "node/354334358",
+        "amenity": "bank",
+        "created_by": "Potlatch 0.10f",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6774261,
+          -4.0632688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408800027",
+      "properties": {
+        "@id": "node/408800027",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7526855,
+          -0.1039187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408800050",
+      "properties": {
+        "@id": "node/408800050",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Co-Operative Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7513113,
+          -0.1017896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408800078",
+      "properties": {
+        "@id": "node/408800078",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kenya Comercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7537565,
+          -0.105712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408800081",
+      "properties": {
+        "@id": "node/408800081",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclay's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7513906,
+          -0.101968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/413939766",
+      "properties": {
+        "@id": "node/413939766",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0671635,
+          -0.4712333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429843866",
+      "properties": {
+        "@id": "node/429843866",
+        "amenity": "post_office",
+        "name": "Kericho GPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2849453,
+          -0.3696574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/489246753",
+      "properties": {
+        "@id": "node/489246753",
+        "amenity": "atm",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8029296,
+          -1.3244571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/496772870",
+      "properties": {
+        "@id": "node/496772870",
+        "amenity": "atm",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8024292,
+          -1.3075071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/515625517",
+      "properties": {
+        "@id": "node/515625517",
+        "amenity": "atm",
+        "name": "Barclay's",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.798867,
+          -1.2950668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612932026",
+      "properties": {
+        "@id": "node/612932026",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025433,
+          -2.267907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/646669649",
+      "properties": {
+        "@id": "node/646669649",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Village Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4294253,
+          -3.3302981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/650338835",
+      "properties": {
+        "@id": "node/650338835",
+        "amenity": "post_office",
+        "name": "Bamburi 80101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.733462,
+          -3.991507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/651910898",
+      "properties": {
+        "@id": "node/651910898",
+        "amenity": "post_office",
+        "name": "Chogoria",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6272707,
+          -0.2308372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/654823615",
+      "properties": {
+        "@id": "node/654823615",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.804411,
+          -1.2299368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/694431132",
+      "properties": {
+        "@id": "node/694431132",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays Bank Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7066686,
+          -1.323234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/694431134",
+      "properties": {
+        "@id": "node/694431134",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Charted Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7066145,
+          -1.3229455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/694431150",
+      "properties": {
+        "@id": "node/694431150",
+        "amenity": "post_office",
+        "name": "Karen Post Office (00502)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7070252,
+          -1.3232129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/768095435",
+      "properties": {
+        "@id": "node/768095435",
+        "amenity": "bank",
+        "name": "Standaed Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7520476,
+          -0.1014379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/833388765",
+      "properties": {
+        "@id": "node/833388765",
+        "amenity": "post_office",
+        "name": "Kinango Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3179648,
+          -4.1375843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/976729866",
+      "properties": {
+        "@id": "node/976729866",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays Bank",
+        "opening_hours": "Mo-Fr 08:30-15:00",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8535026,
+          -3.6303654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/976729868",
+      "properties": {
+        "@id": "node/976729868",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kenya Commercial Bank",
+        "opening_hours": "Mo-Fr 08:30-15:00",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8544822,
+          -3.6312372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/979391435",
+      "properties": {
+        "@id": "node/979391435",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank, Kilifi Branch",
+        "opening_hours": "Mo-Fr 08:30-16:30",
+        "operator": "Equity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8539987,
+          -3.6306575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/979391478",
+      "properties": {
+        "@id": "node/979391478",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Post Bank",
+        "opening_hours": "Mo-Fr 08:30-16:30",
+        "operator": "Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8532802,
+          -3.6305486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/979391485",
+      "properties": {
+        "@id": "node/979391485",
+        "amenity": "post_office",
+        "name": "Kilifi Post Office",
+        "operator": "Poster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8536978,
+          -3.6323092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015636350",
+      "properties": {
+        "@id": "node/1015636350",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7755924,
+          -1.3109761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015636360",
+      "properties": {
+        "@id": "node/1015636360",
+        "amenity": "bank",
+        "atm": "yes",
+        "bank": "Ayany branch",
+        "name": "Co-operative Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7736246,
+          -1.3100702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1045131894",
+      "properties": {
+        "@id": "node/1045131894",
+        "amenity": "atm",
+        "operator": "Cooperative Bank ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.925969,
+          -1.1967103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1045131955",
+      "properties": {
+        "@id": "node/1045131955",
+        "amenity": "atm",
+        "name": "Equity ATM",
+        "operator": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9242771,
+          -1.1964972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1057340174",
+      "properties": {
+        "@id": "node/1057340174",
+        "amenity": "atm",
+        "name": "Barclays Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.071358,
+          -0.284347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1057340180",
+      "properties": {
+        "@id": "node/1057340180",
+        "amenity": "atm",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0701617,
+          -0.2842773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1057422136",
+      "properties": {
+        "@id": "node/1057422136",
+        "amenity": "post_office",
+        "name": "Nakuru General Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0699257,
+          -0.2849693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1098445750",
+      "properties": {
+        "@id": "node/1098445750",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Central Bank Of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6769198,
+          -4.0627889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1098445773",
+      "properties": {
+        "@id": "node/1098445773",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6774491,
+          -4.0625561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1150843783",
+      "properties": {
+        "@id": "node/1150843783",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2675441,
+          -1.5193665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1174549800",
+      "properties": {
+        "@id": "node/1174549800",
+        "amenity": "bank",
+        "atm": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0641232,
+          -0.2861517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1177395264",
+      "properties": {
+        "@id": "node/1177395264",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Posta House",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "operator": "Kenya Post Office bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8201572,
+          -1.2842669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1221423641",
+      "properties": {
+        "@id": "node/1221423641",
+        "amenity": "bank",
+        "name": "Bank of Baroda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.804119,
+          -1.257479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1221423664",
+      "properties": {
+        "@id": "node/1221423664",
+        "alt_name": "DTB",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Diamond Trust Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.803271,
+          -1.2570189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1232050179",
+      "properties": {
+        "@id": "node/1232050179",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Equity Agent",
+        "opening_hours": "08:30-20:00",
+        "operator": "Equity bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.775841,
+          -1.3142057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1276749973",
+      "properties": {
+        "@id": "node/1276749973",
+        "amenity": "bank",
+        "name": "K-Rep Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8809453,
+          -1.2875852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1276749978",
+      "properties": {
+        "@id": "node/1276749978",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8809698,
+          -1.2876614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1276749985",
+      "properties": {
+        "@id": "node/1276749985",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8812085,
+          -1.2880958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1306116735",
+      "properties": {
+        "@id": "node/1306116735",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7628115,
+          -1.2983837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1306116740",
+      "properties": {
+        "@id": "node/1306116740",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7626552,
+          -1.2981945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315220523",
+      "properties": {
+        "@id": "node/1315220523",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6717714,
+          -4.0621949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315220537",
+      "properties": {
+        "@id": "node/1315220537",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6707257,
+          -4.0622504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315220540",
+      "properties": {
+        "@id": "node/1315220540",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclay",
+        "operator": "Barclay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6651711,
+          -4.0503691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315220544",
+      "properties": {
+        "@id": "node/1315220544",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6690216,
+          -4.0622016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315220545",
+      "properties": {
+        "@id": "node/1315220545",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.671105,
+          -4.0623921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315220554",
+      "properties": {
+        "@id": "node/1315220554",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6709533,
+          -4.0623213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315220559",
+      "properties": {
+        "@id": "node/1315220559",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6695396,
+          -4.0622948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315243396",
+      "properties": {
+        "@id": "node/1315243396",
+        "amenity": "bank",
+        "operator": "Barclay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.117286,
+          -3.2109843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315243402",
+      "properties": {
+        "@id": "node/1315243402",
+        "amenity": "bank",
+        "name": "Diamond Trust Bank",
+        "operator": "Diamond Trust Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1178603,
+          -3.211713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315243409",
+      "properties": {
+        "@id": "node/1315243409",
+        "amenity": "bank",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1186145,
+          -3.2129442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315243422",
+      "properties": {
+        "@id": "node/1315243422",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1174923,
+          -3.2102874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315243434",
+      "properties": {
+        "@id": "node/1315243434",
+        "amenity": "bank",
+        "name": "Gulf of Africa",
+        "operator": "Gulf of Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1176366,
+          -3.2109813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315243442",
+      "properties": {
+        "@id": "node/1315243442",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1182112,
+          -3.213065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1317015129",
+      "properties": {
+        "@id": "node/1317015129",
+        "amenity": "post_office",
+        "name": "Buru Buru Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8799527,
+          -1.2845594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1330729928",
+      "properties": {
+        "@id": "node/1330729928",
+        "amenity": "post_office",
+        "name": "Posta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9027212,
+          -2.2694303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1330729955",
+      "properties": {
+        "@id": "node/1330729955",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Gulf African Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.903317,
+          -2.2712036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1333657678",
+      "properties": {
+        "@id": "node/1333657678",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Mpesa/Equity/Ecobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8002625,
+          -1.29517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1340835747",
+      "properties": {
+        "@id": "node/1340835747",
+        "amenity": "post_office",
+        "name": "Gede Posta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.011593,
+          -3.3055633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1361162615",
+      "properties": {
+        "@id": "node/1361162615",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8146132,
+          -1.2843396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1399140353",
+      "properties": {
+        "@id": "node/1399140353",
+        "amenity": "atm",
+        "fee": "Equity Bank ATM",
+        "operator": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8207294,
+          -1.2862715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1401393604",
+      "properties": {
+        "@id": "node/1401393604",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "National Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4742526,
+          -1.0604943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1419909277",
+      "properties": {
+        "@id": "node/1419909277",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2956417,
+          0.1816237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420054570",
+      "properties": {
+        "@id": "node/1420054570",
+        "amenity": "post_office",
+        "name": "YMCA",
+        "operator": "YMCA MANAGEMENT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8126741,
+          -1.2801737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420877762",
+      "properties": {
+        "@id": "node/1420877762",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0140601,
+          -1.1014395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1426057735",
+      "properties": {
+        "@id": "node/1426057735",
+        "amenity": "post_office",
+        "name": "Ugunja Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2949471,
+          0.1803602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1430701350",
+      "properties": {
+        "@id": "node/1430701350",
+        "amenity": "bank",
+        "name": "Kenya Women Finance Trust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2960193,
+          0.1821602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1430701368",
+      "properties": {
+        "@id": "node/1430701368",
+        "amenity": "bank",
+        "name": "Adok Timo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2965556,
+          0.1816267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1430703450",
+      "properties": {
+        "@id": "node/1430703450",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "Faulu Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2969962,
+          0.1797676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1430705700",
+      "properties": {
+        "@id": "node/1430705700",
+        "amenity": "bank",
+        "name": "Equity Agent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.297752,
+          0.1799043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432069280",
+      "properties": {
+        "@id": "node/1432069280",
+        "amenity": "bank",
+        "name": "Habari Multi Purpose Coperative Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2973386,
+          0.1789357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432073943",
+      "properties": {
+        "@id": "node/1432073943",
+        "amenity": "bank",
+        "name": "Siaya Seed Sacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2958511,
+          0.1824167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1445780941",
+      "properties": {
+        "@id": "node/1445780941",
+        "amenity": "bank",
+        "name": "Equity Agent/Mpesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2964029,
+          0.1817417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1453524905",
+      "properties": {
+        "@id": "node/1453524905",
+        "amenity": "atm",
+        "fee": "Pesa Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8346391,
+          -1.3164446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1453525326",
+      "properties": {
+        "@id": "node/1453525326",
+        "amenity": "atm",
+        "operator": "Diamond Trust Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8350468,
+          -1.3167127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1453525328",
+      "properties": {
+        "@id": "node/1453525328",
+        "amenity": "atm",
+        "fee": "KCB Atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8344996,
+          -1.3163909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1453525457",
+      "properties": {
+        "@id": "node/1453525457",
+        "amenity": "bank",
+        "name": "Western Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8348215,
+          -1.3166055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456766986",
+      "properties": {
+        "@id": "node/1456766986",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Co-operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5690851,
+          -4.2824594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456853158",
+      "properties": {
+        "@id": "node/1456853158",
+        "amenity": "atm",
+        "atm": "yes",
+        "name": "Barclays Bank",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5675139,
+          -4.2818048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456939364",
+      "properties": {
+        "@id": "node/1456939364",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Imperial Bank",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5870614,
+          -4.2879282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1457670894",
+      "properties": {
+        "@id": "node/1457670894",
+        "amenity": "post_office",
+        "name": "Ukunda post office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5657762,
+          -4.2873978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1460885772",
+      "properties": {
+        "@id": "node/1460885772",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.888236,
+          -1.3021627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1460888852",
+      "properties": {
+        "@id": "node/1460888852",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Coop Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.888177,
+          -1.3018785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1460889352",
+      "properties": {
+        "@id": "node/1460889352",
+        "amenity": "atm",
+        "fee": "Standard Chartered ATM",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8882226,
+          -1.3016667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1460889933",
+      "properties": {
+        "@id": "node/1460889933",
+        "amenity": "atm",
+        "fee": "KCB ATM",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8882468,
+          -1.3011223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1460891310",
+      "properties": {
+        "@id": "node/1460891310",
+        "amenity": "atm",
+        "fee": "NIC Bank ATM",
+        "operator": "NIC Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8882548,
+          -1.3011947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1460894592",
+      "properties": {
+        "@id": "node/1460894592",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Chase Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8875762,
+          -1.2961508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507541324",
+      "properties": {
+        "@id": "node/1507541324",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "National Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8257575,
+          -1.2889774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507563869",
+      "properties": {
+        "@id": "node/1507563869",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Co-operativeBank Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8265675,
+          -1.2894991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507565817",
+      "properties": {
+        "@id": "node/1507565817",
+        "amenity": "post_office",
+        "name": "City Square Post Office",
+        "operator": "Postal Services Of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8247864,
+          -1.2909053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507571841",
+      "properties": {
+        "@id": "node/1507571841",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CFC Stanbic Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8230519,
+          -1.290076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507584909",
+      "properties": {
+        "@id": "node/1507584909",
+        "amenity": "atm",
+        "fee": "35KSH",
+        "operator": "Co-operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8217823,
+          -1.2913129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507596943",
+      "properties": {
+        "@id": "node/1507596943",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays Bank Nairobi University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8178555,
+          -1.27989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537496328",
+      "properties": {
+        "@id": "node/1537496328",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8235498,
+          -1.2853458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537504486",
+      "properties": {
+        "@id": "node/1537504486",
+        "amenity": "post_office",
+        "name": "Posta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8188988,
+          -1.2864023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1580136980",
+      "properties": {
+        "@id": "node/1580136980",
+        "amenity": "atm",
+        "operator": "NIC Bank ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8344472,
+          -1.3165136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483700",
+      "properties": {
+        "@id": "node/1628483700",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "NIC Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.787028,
+          -1.3006788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483705",
+      "properties": {
+        "@id": "node/1628483705",
+        "amenity": "atm",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.790885,
+          -1.2997992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483708",
+      "properties": {
+        "@id": "node/1628483708",
+        "amenity": "atm",
+        "operator": "Eco Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7909815,
+          -1.2997939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483743",
+      "properties": {
+        "@id": "node/1628483743",
+        "amenity": "bank",
+        "name": "FINA Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7654374,
+          -1.2992874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483746",
+      "properties": {
+        "@id": "node/1628483746",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7868992,
+          -1.3005554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483769",
+      "properties": {
+        "@id": "node/1628483769",
+        "amenity": "atm",
+        "operator": "Pesa Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7623087,
+          -1.2981367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483780",
+      "properties": {
+        "@id": "node/1628483780",
+        "amenity": "atm",
+        "operator": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7868992,
+          -1.300604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483782",
+      "properties": {
+        "@id": "node/1628483782",
+        "amenity": "atm",
+        "operator": "Pesa Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7868885,
+          -1.3004911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483794",
+      "properties": {
+        "@id": "node/1628483794",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7626038,
+          -1.298185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483796",
+      "properties": {
+        "@id": "node/1628483796",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.80314,
+          -1.257085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483799",
+      "properties": {
+        "@id": "node/1628483799",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.770763,
+          -1.2903764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628483807",
+      "properties": {
+        "@id": "node/1628483807",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8047037,
+          -1.2588199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1633795191",
+      "properties": {
+        "@id": "node/1633795191",
+        "addr:housename": "Parkside Tower",
+        "addr:street": "Mombasa road",
+        "amenity": "bank",
+        "atm": "no",
+        "designation": "Commercial Bank of Africa",
+        "name": "CBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.849064,
+          -1.3252668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1633810985",
+      "properties": {
+        "@id": "node/1633810985",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8298165,
+          -1.3126101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1635576802",
+      "properties": {
+        "@id": "node/1635576802",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7900904,
+          -1.3001463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1635576807",
+      "properties": {
+        "@id": "node/1635576807",
+        "amenity": "atm",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7910774,
+          -1.2998137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1635576812",
+      "properties": {
+        "@id": "node/1635576812",
+        "amenity": "atm",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7806973,
+          -1.3347322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1635588099",
+      "properties": {
+        "@id": "node/1635588099",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7876109,
+          -1.2930186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1635588129",
+      "properties": {
+        "@id": "node/1635588129",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7881527,
+          -1.2927129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1635588143",
+      "properties": {
+        "@id": "node/1635588143",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7991122,
+          -1.2950995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1655512437",
+      "properties": {
+        "@id": "node/1655512437",
+        "addr:housename": "Regal Plaza",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Imperial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8272098,
+          -1.2574387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1655512518",
+      "properties": {
+        "@id": "node/1655512518",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8273601,
+          -1.257503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1717370737",
+      "properties": {
+        "@id": "node/1717370737",
+        "amenity": "bank",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9289947,
+          -1.17974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1717370739",
+      "properties": {
+        "@id": "node/1717370739",
+        "amenity": "bank",
+        "name": "National Bank, KU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9291449,
+          -1.1798473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1717391415",
+      "properties": {
+        "@id": "node/1717391415",
+        "amenity": "atm",
+        "operator": "Equity Bank, Kenya LTD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9343538,
+          -1.1790106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1717391422",
+      "properties": {
+        "@id": "node/1717391422",
+        "amenity": "atm",
+        "operator": "National Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9349546,
+          -1.179016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719262603",
+      "properties": {
+        "@id": "node/1719262603",
+        "amenity": "atm",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9587994,
+          -1.1483647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719262606",
+      "properties": {
+        "@id": "node/1719262606",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9611491,
+          -1.1476567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719262608",
+      "properties": {
+        "@id": "node/1719262608",
+        "amenity": "atm",
+        "operator": "Cooprative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9612676,
+          -1.1476465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719262610",
+      "properties": {
+        "@id": "node/1719262610",
+        "amenity": "atm",
+        "operator": "Family Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9594539,
+          -1.1487294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719262614",
+      "properties": {
+        "@id": "node/1719262614",
+        "amenity": "atm",
+        "operator": "PesaPoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9590033,
+          -1.1487937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719262617",
+      "properties": {
+        "@id": "node/1719262617",
+        "amenity": "atm",
+        "operator": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9600869,
+          -1.1481287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719266670",
+      "properties": {
+        "@id": "node/1719266670",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9595505,
+          -1.1487294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719266672",
+      "properties": {
+        "@id": "node/1719266672",
+        "amenity": "bank",
+        "name": "PostBank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9589711,
+          -1.1488045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719270020",
+      "properties": {
+        "@id": "node/1719270020",
+        "amenity": "bank",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9587673,
+          -1.1483647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719318914",
+      "properties": {
+        "@id": "node/1719318914",
+        "amenity": "atm",
+        "operator": "PesaPoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9316555,
+          -1.1892438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719330036",
+      "properties": {
+        "@id": "node/1719330036",
+        "amenity": "atm",
+        "operator": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9214427,
+          -1.1959631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719330040",
+      "properties": {
+        "@id": "node/1719330040",
+        "amenity": "bank",
+        "name": "Equity Bank, Githurai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9160826,
+          -1.2037782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719355500",
+      "properties": {
+        "@id": "node/1719355500",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8249733,
+          -1.2832816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719356119",
+      "properties": {
+        "@id": "node/1719356119",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8250913,
+          -1.283362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720973296",
+      "properties": {
+        "@id": "node/1720973296",
+        "amenity": "atm",
+        "operator": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8219971,
+          -1.2829275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720973298",
+      "properties": {
+        "@id": "node/1720973298",
+        "amenity": "bank",
+        "name": "Cooperative Bank, Kimathi Street Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8219917,
+          -1.2828739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720973301",
+      "properties": {
+        "@id": "node/1720973301",
+        "amenity": "bank",
+        "name": "Cooperative Bank, Moi Avenue branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8216216,
+          -1.2820372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720973303",
+      "properties": {
+        "@id": "node/1720973303",
+        "amenity": "atm",
+        "operator": "Fina Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8216913,
+          -1.2826915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720973304",
+      "properties": {
+        "@id": "node/1720973304",
+        "amenity": "atm",
+        "operator": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8218683,
+          -1.2828256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720973305",
+      "properties": {
+        "@id": "node/1720973305",
+        "amenity": "bank",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8216377,
+          -1.2824234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720982950",
+      "properties": {
+        "@id": "node/1720982950",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8256127,
+          -1.2845579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720982961",
+      "properties": {
+        "@id": "node/1720982961",
+        "amenity": "post_office",
+        "name": "Tom Mboya",
+        "operator": "Posta Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8240141,
+          -1.2825521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720990438",
+      "properties": {
+        "@id": "node/1720990438",
+        "amenity": "bank",
+        "name": "Stanbic Bank, Kenyatta Avenue Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8224171,
+          -1.2836985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720990439",
+      "properties": {
+        "@id": "node/1720990439",
+        "amenity": "atm",
+        "operator": "CFC Stanbic Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8223527,
+          -1.2836985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1720990440",
+      "properties": {
+        "@id": "node/1720990440",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8211994,
+          -1.2843421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721389483",
+      "properties": {
+        "@id": "node/1721389483",
+        "amenity": "atm",
+        "operator": "PesaPoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8184313,
+          -1.2818375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721389484",
+      "properties": {
+        "@id": "node/1721389484",
+        "amenity": "atm",
+        "operator": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8184742,
+          -1.281859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721401324",
+      "properties": {
+        "@id": "node/1721401324",
+        "amenity": "bank",
+        "name": "Kenya Commercial Bank, Anivverary Towers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8165967,
+          -1.2814621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721401325",
+      "properties": {
+        "@id": "node/1721401325",
+        "amenity": "atm",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8175945,
+          -1.2847229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721401326",
+      "properties": {
+        "@id": "node/1721401326",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8177554,
+          -1.2846692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1728805787",
+      "properties": {
+        "@id": "node/1728805787",
+        "amenity": "atm",
+        "operator": "Cooprative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.749577,
+          -1.2652509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1728805795",
+      "properties": {
+        "@id": "node/1728805795",
+        "amenity": "atm",
+        "operator": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7495555,
+          -1.2652509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1728805797",
+      "properties": {
+        "@id": "node/1728805797",
+        "amenity": "bank",
+        "name": "Cooperative Bank, Kangemi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7495984,
+          -1.265208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1728934697",
+      "properties": {
+        "@id": "node/1728934697",
+        "amenity": "atm",
+        "operator": "Postbank, Kenya ( Kenswitch )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7185491,
+          -1.2626666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1728934701",
+      "properties": {
+        "@id": "node/1728934701",
+        "amenity": "bank",
+        "name": "PostBank, Uthiru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7186457,
+          -1.2626076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1746426622",
+      "properties": {
+        "@id": "node/1746426622",
+        "amenity": "bank",
+        "name": "Equity Bank, Kangemi Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7465528,
+          -1.2646913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1747630093",
+      "properties": {
+        "@id": "node/1747630093",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8478591,
+          -3.6330843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762068641",
+      "properties": {
+        "@id": "node/1762068641",
+        "amenity": "atm",
+        "operator": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8232454,
+          -1.3075555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762068868",
+      "properties": {
+        "@id": "node/1762068868",
+        "amenity": "atm",
+        "operator": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8234064,
+          -1.3075421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762069182",
+      "properties": {
+        "@id": "node/1762069182",
+        "amenity": "atm",
+        "operator": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8225588,
+          -1.3078076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789971544",
+      "properties": {
+        "@id": "node/1789971544",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5676216,
+          -4.2822419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789972596",
+      "properties": {
+        "@id": "node/1789972596",
+        "amenity": "atm",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5855225,
+          -4.2906914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789973438",
+      "properties": {
+        "@id": "node/1789973438",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "DTB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5855172,
+          -4.2908172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789979277",
+      "properties": {
+        "@id": "node/1789979277",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5657198,
+          -4.2879338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1790224721",
+      "properties": {
+        "@id": "node/1790224721",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5865083,
+          -4.2901778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1791432975",
+      "properties": {
+        "@id": "node/1791432975",
+        "amenity": "post_office",
+        "name": "Mtopanga 80117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6938045,
+          -4.0127101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1791434925",
+      "properties": {
+        "@id": "node/1791434925",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB Kisauni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6900789,
+          -4.0187784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1791437550",
+      "properties": {
+        "@id": "node/1791437550",
+        "amenity": "atm",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.705692,
+          -4.0023018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794078911",
+      "properties": {
+        "@id": "node/1794078911",
+        "amenity": "bank",
+        "name": "Co-operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7720826,
+          -0.6748794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794079700",
+      "properties": {
+        "@id": "node/1794079700",
+        "amenity": "atm",
+        "name": "Co-operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7720409,
+          -0.6749037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1821782081",
+      "properties": {
+        "@id": "node/1821782081",
+        "amenity": "post_office",
+        "name": "Khayega Post Office",
+        "operator": "Kenya Posta",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7723763,
+          0.2066057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1839469403",
+      "properties": {
+        "@id": "node/1839469403",
+        "amenity": "bank",
+        "name": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8933971,
+          -1.2126591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1849672155",
+      "properties": {
+        "@id": "node/1849672155",
+        "amenity": "atm",
+        "name": "Kenya Commercial Bank",
+        "operator": "KCB",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9593523,
+          -1.4724979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1864105646",
+      "properties": {
+        "@id": "node/1864105646",
+        "amenity": "post_office",
+        "name": "Sidindi Post office "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3799088,
+          0.1545755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1874189588",
+      "properties": {
+        "@id": "node/1874189588",
+        "amenity": "post_office",
+        "name": "Adams Arcade Post Office 00505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7805708,
+          -1.3010283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1888114295",
+      "properties": {
+        "@id": "node/1888114295",
+        "amenity": "post_office",
+        "name": "Diani Post Office",
+        "operator": "Kenyan Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5793027,
+          -4.3032395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1891655158",
+      "properties": {
+        "@id": "node/1891655158",
+        "amenity": "bank",
+        "name": "KWFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5669157,
+          -4.2819841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1892220947",
+      "properties": {
+        "@id": "node/1892220947",
+        "amenity": "bank",
+        "atm": "yes",
+        "atm:count": "2",
+        "name": "Barclays",
+        "source": "personal visit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4517217,
+          -0.537391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1931810054",
+      "properties": {
+        "@id": "node/1931810054",
+        "amenity": "bank",
+        "name": "I&M Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7467409,
+          -1.3584593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1960072389",
+      "properties": {
+        "@id": "node/1960072389",
+        "amenity": "atm",
+        "operator": "Standard Charterd ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8335213,
+          -1.3079219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1960085818",
+      "properties": {
+        "@id": "node/1960085818",
+        "amenity": "bank",
+        "name": "Bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8377861,
+          -1.2998773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1960086065",
+      "properties": {
+        "@id": "node/1960086065",
+        "amenity": "bank",
+        "name": "Bank of Baroda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8382689,
+          -1.2998559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1991534899",
+      "properties": {
+        "@id": "node/1991534899",
+        "amenity": "post_office",
+        "name": "Ruiru Post Office",
+        "operator": "postal coporation of kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9601882,
+          -1.147994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1991534920",
+      "properties": {
+        "@id": "node/1991534920",
+        "amenity": "atm",
+        "operator": "Barclays Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9608963,
+          -1.1478278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1994642328",
+      "properties": {
+        "@id": "node/1994642328",
+        "amenity": "bank",
+        "name": "Fidelity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5772261,
+          -4.3078326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2014897085",
+      "properties": {
+        "@id": "node/2014897085",
+        "amenity": "bank",
+        "name": "Coop Bank",
+        "project:eurosha_2012": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9798694,
+          0.4703243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2032776508",
+      "properties": {
+        "@id": "node/2032776508",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7300819,
+          -0.2456886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2083025766",
+      "properties": {
+        "@id": "node/2083025766",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0606609,
+          -0.9348315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2083026402",
+      "properties": {
+        "@id": "node/2083026402",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0610177,
+          -0.9351184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2106720440",
+      "properties": {
+        "@id": "node/2106720440",
+        "amenity": "atm",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7757515,
+          -1.0584506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2145322818",
+      "properties": {
+        "@id": "node/2145322818",
+        "amenity": "atm",
+        "operator": "Co-operative Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8377277,
+          -1.3115009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2145345414",
+      "properties": {
+        "@id": "node/2145345414",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8271303,
+          -1.3147911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2145434337",
+      "properties": {
+        "@id": "node/2145434337",
+        "amenity": "bank",
+        "name": "Bank of Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8254459,
+          -1.3015337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2145513004",
+      "properties": {
+        "@id": "node/2145513004",
+        "amenity": "bank",
+        "name": "Co-operative Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7971119,
+          -1.2996448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164989213",
+      "properties": {
+        "@id": "node/2164989213",
+        "amenity": "bank",
+        "name": "Cooperative Bank",
+        "project:eurosha_2012": "yes",
+        "source": "Field Survey",
+        "source:date": "2013-02-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73424,
+          -0.2506862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2165258789",
+      "properties": {
+        "@id": "node/2165258789",
+        "amenity": "bank",
+        "name": "Equity Bank",
+        "project:eurosha_2012": "yes",
+        "source": "Field Survey",
+        "source:date": "2013-02-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7316943,
+          -0.2523529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167002678",
+      "properties": {
+        "@id": "node/2167002678",
+        "amenity": "bank",
+        "name": "Agricultural Finance Corporation",
+        "operator": "Ministry of  Agriculture",
+        "project:eurosha_2012": "yes",
+        "source": "Field Survey",
+        "source:date": "2013-02-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7272699,
+          -0.2431888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167002695",
+      "properties": {
+        "@id": "node/2167002695",
+        "amenity": "bank",
+        "name": "Kenya Farmers Association shop",
+        "operator": "Farmers",
+        "project:eurosha_2012": "yes",
+        "shop": "department_store",
+        "source": "Field Survey",
+        "source:date": "2013-02-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7282147,
+          -0.2440253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2168340640",
+      "properties": {
+        "@id": "node/2168340640",
+        "amenity": "bank",
+        "name": "National Bank",
+        "project:eurosha_2012": "yes",
+        "source": "Bing",
+        "source:date": "2011-10-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7287483,
+          -0.2443392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2192805118",
+      "properties": {
+        "@id": "node/2192805118",
+        "amenity": "atm",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.510404,
+          -2.9259072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2218539615",
+      "properties": {
+        "@id": "node/2218539615",
+        "addr:housename": "Equitorial fidelity center",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equitorial commercial bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7862557,
+          -1.260389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2249916021",
+      "properties": {
+        "@id": "node/2249916021",
+        "amenity": "post_office",
+        "name": "Mkomani Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6826424,
+          -4.048778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2306253584",
+      "properties": {
+        "@id": "node/2306253584",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cooperative Bank",
+        "opening_hours": "Mo-Fr 08:30-20:00",
+        "operator": "OWNERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8792972,
+          -1.26084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2306253586",
+      "properties": {
+        "@id": "node/2306253586",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "NATIONAL BANK",
+        "opening_hours": "Mo-Fr 08:30-20:00",
+        "operator": "OWNERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8789808,
+          -1.258475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2325106023",
+      "properties": {
+        "@id": "node/2325106023",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6809991,
+          -4.0400728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2405885995",
+      "properties": {
+        "@id": "node/2405885995",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "M-Pesa Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8863899,
+          -1.2471738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433371952",
+      "properties": {
+        "@id": "node/2433371952",
+        "amenity": "bank",
+        "name": "Standard Chartered Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8397502,
+          -1.2613521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2438808320",
+      "properties": {
+        "@id": "node/2438808320",
+        "amenity": "post_office",
+        "name": "Kendu Bay Post Office",
+        "operator": "Posta Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6489308,
+          -0.3705412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2456567551",
+      "properties": {
+        "@id": "node/2456567551",
+        "amenity": "atm",
+        "name": "Standard Chartered Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9589058,
+          -1.4765418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461247757",
+      "properties": {
+        "@id": "node/2461247757",
+        "amenity": "bank",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8114999,
+          -1.2355786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461248093",
+      "properties": {
+        "@id": "node/2461248093",
+        "amenity": "bank",
+        "name": "CFC Stanbic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8113819,
+          -1.235356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461248373",
+      "properties": {
+        "@id": "node/2461248373",
+        "amenity": "atm",
+        "operator": "Standard Chartered Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8114651,
+          -1.2356135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461248502",
+      "properties": {
+        "@id": "node/2461248502",
+        "amenity": "atm",
+        "operator": "CFC Stanbic Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8112156,
+          -1.2353936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2475315038",
+      "properties": {
+        "@id": "node/2475315038",
+        "amenity": "bank",
+        "name": "Post Bank Nyahururu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.364248,
+          0.0384951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2475373987",
+      "properties": {
+        "@id": "node/2475373987",
+        "amenity": "bank",
+        "name": "Family Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3645697,
+          0.0337612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2475374370",
+      "properties": {
+        "@id": "node/2475374370",
+        "amenity": "bank",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3645274,
+          0.0340543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2475377596",
+      "properties": {
+        "@id": "node/2475377596",
+        "amenity": "bank",
+        "name": "Cooperative Bank, Nyahururu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3641441,
+          0.038822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2509933558",
+      "properties": {
+        "@id": "node/2509933558",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered Bank Ruaraka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.859104,
+          -1.2536878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2511473773",
+      "properties": {
+        "@id": "node/2511473773",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Commercial Bank of Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7622883,
+          -1.2979233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2511474565",
+      "properties": {
+        "@id": "node/2511474565",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "NIC Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7625499,
+          -1.2980369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2511486998",
+      "properties": {
+        "@id": "node/2511486998",
+        "amenity": "bank",
+        "name": "Junction Forex Bureau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7628786,
+          -1.2982606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2511491870",
+      "properties": {
+        "@id": "node/2511491870",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Imperial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7630904,
+          -1.2981918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2536626681",
+      "properties": {
+        "@id": "node/2536626681",
+        "amenity": "post_office",
+        "name": "DHL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8050561,
+          -1.2294301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2536627346",
+      "properties": {
+        "@id": "node/2536627346",
+        "amenity": "post_office",
+        "name": "Western Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8051195,
+          -1.2292975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2536627395",
+      "properties": {
+        "@id": "node/2536627395",
+        "amenity": "post_office",
+        "name": "DHL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8050561,
+          -1.2294301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2587602831",
+      "properties": {
+        "@id": "node/2587602831",
+        "amenity": "bank",
+        "name": "I&M Parklands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8171403,
+          -1.2671821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2609961028",
+      "properties": {
+        "@id": "node/2609961028",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9147524,
+          -2.2940776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618414044",
+      "properties": {
+        "@id": "node/2618414044",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "ABC bank",
+        "name": "ABC bank",
+        "operator": "ABC bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9026628,
+          -2.2682442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618414048",
+      "properties": {
+        "@id": "node/2618414048",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "Diamond trust Bank",
+        "name": "Diamond trust Bank",
+        "operator": "Diamond trust Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025457,
+          -2.267978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618414050",
+      "properties": {
+        "@id": "node/2618414050",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KCB",
+        "name": "KCB",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025463,
+          -2.2679808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618692949",
+      "properties": {
+        "@id": "node/2618692949",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "ABC bank",
+        "name": "ABC bank",
+        "operator": "ABC bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9026628,
+          -2.2682442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618692962",
+      "properties": {
+        "@id": "node/2618692962",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "Diamond trust Bank",
+        "name": "Diamond trust Bank",
+        "operator": "Diamond trust Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025457,
+          -2.267978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618692966",
+      "properties": {
+        "@id": "node/2618692966",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KCB",
+        "name": "KCB",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025463,
+          -2.2679808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618717330",
+      "properties": {
+        "@id": "node/2618717330",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "ABC bank",
+        "name": "ABC bank",
+        "operator": "ABC bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9026628,
+          -2.2682442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618717344",
+      "properties": {
+        "@id": "node/2618717344",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "Diamond trust Bank",
+        "name": "Diamond trust Bank",
+        "operator": "Diamond trust Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025457,
+          -2.267978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2618717348",
+      "properties": {
+        "@id": "node/2618717348",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KCB",
+        "name": "KCB",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025463,
+          -2.2679808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641024259",
+      "properties": {
+        "@id": "node/2641024259",
+        "amenity": "post_office",
+        "name": "Njoro G.P.O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9415858,
+          -0.3285928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641875559",
+      "properties": {
+        "@id": "node/2641875559",
+        "amenity": "atm",
+        "name": "Standard Chartered",
+        "operator": "Standard Chartered Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.83695,
+          -1.3192326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641875987",
+      "properties": {
+        "@id": "node/2641875987",
+        "amenity": "atm",
+        "name": "Barclays",
+        "operator": "Barclays Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8369875,
+          -1.319238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641881824",
+      "properties": {
+        "@id": "node/2641881824",
+        "amenity": "bank",
+        "name": "Western Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8119969,
+          -1.232488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641886531",
+      "properties": {
+        "@id": "node/2641886531",
+        "amenity": "bank",
+        "name": "Give & Take Forex Bureau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.812019,
+          -1.2325145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2653552592",
+      "properties": {
+        "@id": "node/2653552592",
+        "amenity": "post_office",
+        "name": "Muthaiga Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.820124,
+          -1.2499982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661511562",
+      "properties": {
+        "@id": "node/2661511562",
+        "addr:city": "KERICHO",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2839865,
+          -0.3704817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2665770636",
+      "properties": {
+        "@id": "node/2665770636",
+        "addr:city": "Eldoret",
+        "addr:postcode": "30100",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank, Market Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2728127,
+          0.5171601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2665797440",
+      "properties": {
+        "@id": "node/2665797440",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "National Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.274599,
+          0.518528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667348822",
+      "properties": {
+        "@id": "node/2667348822",
+        "addr:city": "Eldoret",
+        "addr:postcode": "30100",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered Bank",
+        "opening_hours": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2754673,
+          0.5176849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667349121",
+      "properties": {
+        "@id": "node/2667349121",
+        "addr:city": "Eldoret",
+        "addr:postcode": "30100",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays Bank",
+        "opening_hours": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2751383,
+          0.517864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667349584",
+      "properties": {
+        "@id": "node/2667349584",
+        "addr:city": "Eldoret",
+        "addr:postcode": "30100",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kenya Commercial Bank",
+        "opening_hours": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2752491,
+          0.5170727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667350187",
+      "properties": {
+        "@id": "node/2667350187",
+        "addr:city": "Eldoret",
+        "addr:postcode": "30100",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Trans National Bank Ltd",
+        "opening_hours": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2762391,
+          0.5175709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667363341",
+      "properties": {
+        "@id": "node/2667363341",
+        "amenity": "atm",
+        "name": "Co-operative Bank ATM",
+        "operator": "Co-operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2807077,
+          0.5125793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667430583",
+      "properties": {
+        "@id": "node/2667430583",
+        "amenity": "bank",
+        "name": "Central Bank of Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2685006,
+          0.5204472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667431132",
+      "properties": {
+        "@id": "node/2667431132",
+        "addr:city": "eldoret",
+        "addr:postcode": "30100",
+        "amenity": "bank",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2684948,
+          0.5202927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2678577785",
+      "properties": {
+        "@id": "node/2678577785",
+        "amenity": "bank",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0785191,
+          0.0150953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2678595221",
+      "properties": {
+        "@id": "node/2678595221",
+        "amenity": "bank",
+        "name": "Barclays Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0777692,
+          0.0127177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2680108552",
+      "properties": {
+        "@id": "node/2680108552",
+        "amenity": "bank",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9592604,
+          -1.4725547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2699195525",
+      "properties": {
+        "@id": "node/2699195525",
+        "amenity": "post_office",
+        "name": "Kitui Post Office",
+        "operator": "Kenya Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0123968,
+          -1.366075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739052643",
+      "properties": {
+        "@id": "node/2739052643",
+        "amenity": "atm",
+        "name": "Pesa Point Wanandege Plaza",
+        "operator": "Pesa Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9122908,
+          -1.3098388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739115555",
+      "properties": {
+        "@id": "node/2739115555",
+        "amenity": "atm",
+        "operator": "Co-Operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9134173,
+          -1.3113753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739115556",
+      "properties": {
+        "@id": "node/2739115556",
+        "amenity": "atm",
+        "operator": "Kenya Commercial Bank (KCB)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9134415,
+          -1.3113941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780920626",
+      "properties": {
+        "@id": "node/2780920626",
+        "amenity": "atm",
+        "name": "Standard Chartered Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8243639,
+          -1.2637215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2794547711",
+      "properties": {
+        "@id": "node/2794547711",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB",
+        "opening_hours": "08:30-12:30,15:30-20:00",
+        "operator": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8186371,
+          -1.2854209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2832355801",
+      "properties": {
+        "@id": "node/2832355801",
+        "amenity": "bank",
+        "name": "Co-operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.672362,
+          -4.060366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2875798611",
+      "properties": {
+        "@id": "node/2875798611",
+        "amenity": "bank",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7915983,
+          -1.2933838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2891044155",
+      "properties": {
+        "@id": "node/2891044155",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclay's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1265186,
+          -0.482261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966126271",
+      "properties": {
+        "@id": "node/2966126271",
+        "amenity": "atm",
+        "name": "KCB Bank ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0753634,
+          -1.0374493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966139675",
+      "properties": {
+        "@id": "node/2966139675",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Family Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0756242,
+          -1.0366528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966139677",
+      "properties": {
+        "@id": "node/2966139677",
+        "amenity": "atm",
+        "name": "Standard Chartered ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0752689,
+          -1.0366647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966139678",
+      "properties": {
+        "@id": "node/2966139678",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.075182,
+          -1.0366212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2982189926",
+      "properties": {
+        "@id": "node/2982189926",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8695267,
+          -1.0884952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2986364644",
+      "properties": {
+        "@id": "node/2986364644",
+        "amenity": "atm",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7329331,
+          -3.9924789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2987837990",
+      "properties": {
+        "@id": "node/2987837990",
+        "amenity": "bank",
+        "name": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0657809,
+          -0.2849159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2987837992",
+      "properties": {
+        "@id": "node/2987837992",
+        "amenity": "bank",
+        "name": "Postbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.065341,
+          -0.2852433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032456380",
+      "properties": {
+        "@id": "node/3032456380",
+        "addr:city": "Umoja Estate",
+        "addr:street": "Moi Drive",
+        "amenity": "bank",
+        "name": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8872326,
+          -1.283676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032456389",
+      "properties": {
+        "@id": "node/3032456389",
+        "addr:city": "Buruburu",
+        "addr:street": "Mumias South Road",
+        "amenity": "bank",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8795719,
+          -1.2823518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032456391",
+      "properties": {
+        "@id": "node/3032456391",
+        "addr:city": "Buruburu",
+        "addr:street": "Mumias South Road",
+        "amenity": "bank",
+        "name": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8797596,
+          -1.2829524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3032456396",
+      "properties": {
+        "@id": "node/3032456396",
+        "addr:city": "Buruburu",
+        "addr:street": "Mumias South Road",
+        "amenity": "bank",
+        "name": "National Housing Corporation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8775506,
+          -1.2788725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3078100352",
+      "properties": {
+        "@id": "node/3078100352",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0666958,
+          -0.2854463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3136450078",
+      "properties": {
+        "@id": "node/3136450078",
+        "addr:city": "Lodwar",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB bank",
+        "operator": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5949537,
+          3.1203623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3141461082",
+      "properties": {
+        "@id": "node/3141461082",
+        "amenity": "post_office",
+        "collection_times": "12",
+        "name": "Bomet Post Office",
+        "operator": "Posta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3413031,
+          -0.7821161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3141497444",
+      "properties": {
+        "@id": "node/3141497444",
+        "addr:city": "Kipsigis Teachers Sacco Building",
+        "amenity": "bank",
+        "name": "Faulu Kenya-Bomet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3391658,
+          -0.7840444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3141502584",
+      "properties": {
+        "@id": "node/3141502584",
+        "amenity": "bank",
+        "name": "Equity Bank Bomet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3392042,
+          -0.783065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3141503862",
+      "properties": {
+        "@id": "node/3141503862",
+        "amenity": "bank",
+        "name": "KCB Mtaani Kibet Leleito Erick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3386856,
+          -0.7824985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3141514404",
+      "properties": {
+        "@id": "node/3141514404",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "PesaPoint ATM KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3395787,
+          -0.7824601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3141519269",
+      "properties": {
+        "@id": "node/3141519269",
+        "amenity": "bank",
+        "name": "Co-op Kwa Jirani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.337034,
+          -0.7844189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3143179298",
+      "properties": {
+        "@id": "node/3143179298",
+        "amenity": "bank",
+        "name": "Kenya Commercial Bank",
+        "operator": "Kenya Commercial Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2152504,
+          -1.4409018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3193333677",
+      "properties": {
+        "@id": "node/3193333677",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UNFCU",
+        "operator": "United Nations Federal Credit Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8144387,
+          -1.2327155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3193333678",
+      "properties": {
+        "@id": "node/3193333678",
+        "amenity": "bank",
+        "name": "UN Sacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.814582,
+          -1.2326796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3219925545",
+      "properties": {
+        "@id": "node/3219925545",
+        "amenity": "post_office",
+        "name": "Londiani Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5945568,
+          -0.1652126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3252280580",
+      "properties": {
+        "@id": "node/3252280580",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5807221,
+          -4.2993091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3281773303",
+      "properties": {
+        "@id": "node/3281773303",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Postbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2088457,
+          -0.42596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3281773305",
+      "properties": {
+        "@id": "node/3281773305",
+        "amenity": "bank",
+        "name": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2068481,
+          -0.4245314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3281773312",
+      "properties": {
+        "@id": "node/3281773312",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.208645,
+          -0.4243288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3281773318",
+      "properties": {
+        "@id": "node/3281773318",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2087569,
+          -0.4231875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3281773320",
+      "properties": {
+        "@id": "node/3281773320",
+        "amenity": "bank",
+        "atm": "no",
+        "name": "KWFT Kenya Women Microfinance Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2092317,
+          -0.4266801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3283729136",
+      "properties": {
+        "@id": "node/3283729136",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8892542,
+          -1.2195837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3289328892",
+      "properties": {
+        "@id": "node/3289328892",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.811318,
+          -1.2361445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3289328923",
+      "properties": {
+        "@id": "node/3289328923",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8150859,
+          -1.2327436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3292347895",
+      "properties": {
+        "@id": "node/3292347895",
+        "amenity": "post_office",
+        "name": "Kisumu Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7527081,
+          -0.104117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3294738188",
+      "properties": {
+        "@id": "node/3294738188",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8288365,
+          -1.2888812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3294738189",
+      "properties": {
+        "@id": "node/3294738189",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8290557,
+          -1.28866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3390815696",
+      "properties": {
+        "@id": "node/3390815696",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6963491,
+          1.096707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3390815708",
+      "properties": {
+        "@id": "node/3390815708",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.697699,
+          1.0980844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3393468066",
+      "properties": {
+        "@id": "node/3393468066",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7641788,
+          -1.3432325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3393468068",
+      "properties": {
+        "@id": "node/3393468068",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7432244,
+          -1.3649602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3486411164",
+      "properties": {
+        "@id": "node/3486411164",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5606878,
+          -3.3948933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3486411165",
+      "properties": {
+        "@id": "node/3486411165",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "KCB Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5605152,
+          -3.3941163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3486411166",
+      "properties": {
+        "@id": "node/3486411166",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Cooperative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5601146,
+          -3.3943016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3486550355",
+      "properties": {
+        "@id": "node/3486550355",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5633902,
+          -3.3929493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3519375333",
+      "properties": {
+        "@id": "node/3519375333",
+        "amenity": "atm",
+        "name": "Barclays self servise",
+        "operator": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6552295,
+          -1.3617669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3519375334",
+      "properties": {
+        "@id": "node/3519375334",
+        "amenity": "post_office",
+        "name": "Ngong Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6553287,
+          -1.3614819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3519375374",
+      "properties": {
+        "@id": "node/3519375374",
+        "amenity": "atm",
+        "name": "KCB ATM - Ngong Branch",
+        "operator": "KCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.655363,
+          -1.3616573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3519375375",
+      "properties": {
+        "@id": "node/3519375375",
+        "amenity": "atm",
+        "name": "National Bank ATM-Ngong",
+        "operator": "National Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6560358,
+          -1.3591963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3519474220",
+      "properties": {
+        "@id": "node/3519474220",
+        "amenity": "bank",
+        "name": "Post Bank - Ngong Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6560256,
+          -1.363222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3519605680",
+      "properties": {
+        "@id": "node/3519605680",
+        "amenity": "atm",
+        "name": "Equity Bank ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7596966,
+          -1.2991806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3595666724",
+      "properties": {
+        "@id": "node/3595666724",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "DTB Kitengela",
+        "operator": "DTB Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9581689,
+          -1.4783861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3595689025",
+      "properties": {
+        "@id": "node/3595689025",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Coopreative Bank",
+        "operator": "Coopreative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9575971,
+          -1.4785643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3595689219",
+      "properties": {
+        "@id": "node/3595689219",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Equity Bank",
+        "operator": "Equity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9582516,
+          -1.4784195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3595691923",
+      "properties": {
+        "@id": "node/3595691923",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Family Bank",
+        "operator": "Family Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9572916,
+          -1.4795193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3595692166",
+      "properties": {
+        "@id": "node/3595692166",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Housing Finance Bank",
+        "operator": "HFCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9572995,
+          -1.4812566
+        ]
+      }
+    }
+  ]
+}
